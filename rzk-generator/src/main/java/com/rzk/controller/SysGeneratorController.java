@@ -8,10 +8,11 @@
 
 package com.rzk.controller;
 
-import io.renren.service.SysGeneratorService;
-import io.renren.utils.PageUtils;
-import io.renren.utils.Query;
-import io.renren.utils.R;
+import com.rzk.service.SysGeneratorService;
+import com.rzk.service.SysGeneratorService;
+import com.rzk.utils.PageUtils;
+import com.rzk.utils.Query;
+import com.rzk.utils.R;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

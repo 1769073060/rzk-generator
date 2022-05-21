@@ -1,5 +1,8 @@
 package com.rzk;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
  * @PackageName : com.rzk
  * @FileName : GeneratorApplication

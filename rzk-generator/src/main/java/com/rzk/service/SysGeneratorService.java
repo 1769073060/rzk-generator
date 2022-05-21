@@ -10,10 +10,11 @@ package com.rzk.service;
 
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import io.renren.dao.GeneratorDao;
-import io.renren.utils.GenUtils;
-import io.renren.utils.PageUtils;
-import io.renren.utils.Query;
+import com.rzk.dao.GeneratorDao;
+import com.rzk.dao.GeneratorDao;
+import com.rzk.utils.GenUtils;
+import com.rzk.utils.PageUtils;
+import com.rzk.utils.Query;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -8,8 +8,8 @@
 
 package com.rzk.config;
 
-import io.renren.dao.*;
-import io.renren.utils.RenException;
+import com.rzk.dao.*;
+import com.rzk.utils.RenException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
